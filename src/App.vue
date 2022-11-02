@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
      <!-- <HelloWorld msg="Du hast..." />-->
-      Bitte diesen Text hier ändern! Grüße von Marvin
+      Bitte diesen Text hier ändern! Grüße von Johannes
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
